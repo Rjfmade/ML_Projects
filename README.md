@@ -1,4 +1,4 @@
-# ML_Projects
+# Machine Learning Projects
  Different ML projects using Anaconda and Jupyter Lab.
 
  These projects are part of subject Machine Learnig in Åbo Akademi, 
